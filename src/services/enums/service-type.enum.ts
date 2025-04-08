@@ -1,0 +1,5 @@
+export enum ServiceType {
+  INSTALLATION = 'INSTALLATION',
+  MAINTENANCE = 'MAINTENANCE',
+  REPAIR = 'REPAIR',
+}
